@@ -1,6 +1,24 @@
 
 .ustkisim{
 	height:100px;
-	width:1342px;
+	width:1900px;
 	background-color:black;
+}
+.gecis{
+    height:100px;
+    width:1900px;
+    background-color:white; 
+}
+.yankısım{
+    height:500px;
+    width:200px;
+    background-color:black;
+
+}
+.ickısım{
+    height:600px;
+    width:200px;
+    background-color:white;
+    float:unset;
+
 }
