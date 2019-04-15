@@ -1,28 +1,41 @@
 
-.ustkisim{
-	height:100px;
-	width:1900px;
-	background-color:black;
+.container
+      { width:1850px;
+        margin:0 auto;
+        height: 800px;
+      }
+.ustkisim 
+{       height:150px;
+        margin-bottom:10px;
+        background-color:white;
 }
-.gecis{
-    height:100px;
-    width:1900px;
-    background-color:white; 
-}
-.ickısım{
-    height:900px;
-    width:900px;
-    background-color:black;
-    margin-top: 100px;
-    margin-bottom: 200px;
-    margin-right: 150px;
-    margin-left: 600px;
-}
-.yankısım{
-    height:600px;
-    width:200px;
+.sol {
+
+    width:275px;
+    height:630px;
     background-color:white;
-    float:unset;
-    margin:auto;
-    
+    float:right;
 }
+.sag
+{
+    width:275px;
+    height:630px;
+    background-color:white;
+    float:left;
+    margin-bottom:10px;
+}
+
+.ickısım{
+    width:1600px;
+   height:630px;
+   margin-bottom:10px;
+   background-color:green;
+}
+.footer{
+        height:150px;
+        background-color:white;
+        margin-top: 10px;
+        
+}
+
+
