@@ -1,12 +1,7 @@
-
-.maincontainer
-      { 
-        
-      }
 .ustkisim 
 {       height:100px;
         margin-bottom:10px;
-        background-color:white;
+        background-color:gray;
          position: relative;
 }
 .menu{
@@ -19,14 +14,14 @@
 
     width:200px;
     height:630px;
-    background-color:white;
+    background-color:gray;
     position: relative;
 }
 .sag
 {
     width:200px;
     height:630px;
-    background-color:white;
+    background-color:gray;
     position: relative;
     left:1680px;
     bottom: 1360px;
@@ -45,13 +40,3 @@
   
 
 }
-.footer{
-      height:100px;
-      background-color:white;
-      margin-top: 650px;
-     position: relative;
-     bottom:1900px;
-        
-}
-
-
