@@ -1,3 +1,10 @@
+h1{
+   left:120px;
+   position:relative;
+   bottom:100px;
+
+} 
+
 .maincontainer
       { 
         
@@ -5,27 +12,23 @@
 .ustkisim 
 {       height:100px;
         margin-bottom:10px;
-        background-color:white;
          position: relative;
 }
 .menu{
         height:50px;
         margin-bottom:10px;
-        background-color:white;
         position: relative;
 }
 .sol {
 
     width:200px;
     height:630px;
-    background-color:white;
     position: relative;
 }
 .ickısım{
    width:1337px;
    height:700px;
    margin-bottom:10px;
-   background-color:green;
    position: relative;
    margin: auto;
    position: relative;
@@ -35,7 +38,6 @@
 }
 .footer{
       height:100px;
-      background-color:white;
       margin-top: 650px;
      position: relative;
      bottom:1250px;

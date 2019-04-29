@@ -1,42 +1,40 @@
+.maincontainer{
+   width:100%;
+   height:100%;
+
+
+}
+
+
+
+h1{
+   left:120px;
+   position:relative;
+   bottom:100px;
+
+} 
+.bg { 
+  background-repeat:no-repeat;
+  position:relative;
+}
+
 .ustkisim 
 {       height:100px;
         margin-bottom:10px;
-        background-color:gray;
-         position: relative;
+        position: relative;
 }
 .menu{
         height:50px;
         margin-bottom:10px;
-        background-color:white;
         position: relative;
-}
-.sol {
-
-    width:200px;
-    height:630px;
-    background-color:gray;
-    position: relative;
-}
-.sag
-{
-    width:200px;
-    height:630px;
-    background-color:gray;
-    position: relative;
-    left:1680px;
-    bottom: 1360px;
-
 }
 
 .ickısım{
    width:1337px;
    height:700px;
    margin-bottom:10px;
-   background-color:green;
    position: relative;
    margin: auto;
    position: relative;
-   bottom:647px;
-  
-
+ 
 }

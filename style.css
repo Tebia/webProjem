@@ -33,7 +33,6 @@ h1{
 
     width:200px;
     height:630px;
-    background-color:white;
     position: relative;
 }
 .sag
@@ -43,7 +42,6 @@ h1{
     position: relative;
     left:1600px;
     bottom: 1360px;
-    background-color:white;
 
 }
 
@@ -58,13 +56,11 @@ h1{
    margin: auto;
    position: relative;
    bottom:647px;
-   background-color:white;
   
 
 }
 .footer{
       height:100px;
-      background-color:white;
       margin-top: 650px;
      position: relative;
      bottom:1900px;
